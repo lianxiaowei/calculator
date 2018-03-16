@@ -88,8 +88,7 @@ for(i=1;i<=n;i++)
 
 ### PSP表格
 
-![](https://github.com/JamesTomcat/Cpp1/blob/master/PSP%E8%A1%A8%E6%A0%BC.png)
-
+![](https://github.com/lianxiaowei/calculator/blob/master/PSP%E8%A1%A8%E6%A0%BC.png)
 ###关于作者
 
 ```javascript
